@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.Server.WebAPI", "Android.Server.WebAPI\Android.Server.WebAPI.csproj", "{ABBFF95E-26FF-4264-8A6B-C521E35F0C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.Server.DomainModels", "Android.Server.DomainModels\Android.Server.DomainModels.csproj", "{2423E32B-F06A-49AD-9529-F3D7ED035907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBFF95E-26FF-4264-8A6B-C521E35F0C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBFF95E-26FF-4264-8A6B-C521E35F0C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBFF95E-26FF-4264-8A6B-C521E35F0C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBFF95E-26FF-4264-8A6B-C521E35F0C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2423E32B-F06A-49AD-9529-F3D7ED035907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2423E32B-F06A-49AD-9529-F3D7ED035907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2423E32B-F06A-49AD-9529-F3D7ED035907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2423E32B-F06A-49AD-9529-F3D7ED035907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

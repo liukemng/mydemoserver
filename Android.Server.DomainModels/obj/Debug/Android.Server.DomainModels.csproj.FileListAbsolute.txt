@@ -1,0 +1,5 @@
+E:\TestProject\AndroidServerDemo\AndroidServer\Android.Server.DomainModels\bin\Debug\Android.Server.DomainModels.dll
+E:\TestProject\AndroidServerDemo\AndroidServer\Android.Server.DomainModels\bin\Debug\Android.Server.DomainModels.pdb
+E:\TestProject\AndroidServerDemo\AndroidServer\Android.Server.DomainModels\obj\Debug\Android.Server.DomainModels.csprojResolveAssemblyReference.cache
+E:\TestProject\AndroidServerDemo\AndroidServer\Android.Server.DomainModels\obj\Debug\Android.Server.DomainModels.dll
+E:\TestProject\AndroidServerDemo\AndroidServer\Android.Server.DomainModels\obj\Debug\Android.Server.DomainModels.pdb
